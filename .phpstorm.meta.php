@@ -3,7 +3,7 @@ namespace PHPSTORM_META {
 
    /**
     * PhpStorm Meta file, to provide autocomplete information for PhpStorm
-    * Generated on 2017-06-23.
+    * Generated on 2017-06-26.
     *
     * @author Barry vd. Heuvel <barryvdh@gmail.com>
     * @see https://github.com/barryvdh/laravel-ide-helper
@@ -114,7 +114,7 @@ namespace PHPSTORM_META {
         'IlluminateQueueClosure' => IlluminateQueueClosure::class,
         'auth.password' => Illuminate\Auth\Passwords\PasswordBroker::class,
         'auth.password.tokens' => Illuminate\Auth\Passwords\DatabaseTokenRepository::class,
-        'translation.loader' => Illuminate\Translation\FileLoader::class,
+        'translation.loader' => Overtrue\LaravelLang\FileLoader::class,
         'translator' => Illuminate\Translation\Translator::class,
         'command.ide-helper.generate' => Barryvdh\LaravelIdeHelper\Console\GeneratorCommand::class,
         'command.ide-helper.models' => Barryvdh\LaravelIdeHelper\Console\ModelsCommand::class,
@@ -227,7 +227,7 @@ namespace PHPSTORM_META {
         'IlluminateQueueClosure' => IlluminateQueueClosure::class,
         'auth.password' => Illuminate\Auth\Passwords\PasswordBroker::class,
         'auth.password.tokens' => Illuminate\Auth\Passwords\DatabaseTokenRepository::class,
-        'translation.loader' => Illuminate\Translation\FileLoader::class,
+        'translation.loader' => Overtrue\LaravelLang\FileLoader::class,
         'translator' => Illuminate\Translation\Translator::class,
         'command.ide-helper.generate' => Barryvdh\LaravelIdeHelper\Console\GeneratorCommand::class,
         'command.ide-helper.models' => Barryvdh\LaravelIdeHelper\Console\ModelsCommand::class,
@@ -340,7 +340,7 @@ namespace PHPSTORM_META {
         'IlluminateQueueClosure' => IlluminateQueueClosure::class,
         'auth.password' => Illuminate\Auth\Passwords\PasswordBroker::class,
         'auth.password.tokens' => Illuminate\Auth\Passwords\DatabaseTokenRepository::class,
-        'translation.loader' => Illuminate\Translation\FileLoader::class,
+        'translation.loader' => Overtrue\LaravelLang\FileLoader::class,
         'translator' => Illuminate\Translation\Translator::class,
         'command.ide-helper.generate' => Barryvdh\LaravelIdeHelper\Console\GeneratorCommand::class,
         'command.ide-helper.models' => Barryvdh\LaravelIdeHelper\Console\ModelsCommand::class,
@@ -453,7 +453,7 @@ namespace PHPSTORM_META {
         'IlluminateQueueClosure' => IlluminateQueueClosure::class,
         'auth.password' => Illuminate\Auth\Passwords\PasswordBroker::class,
         'auth.password.tokens' => Illuminate\Auth\Passwords\DatabaseTokenRepository::class,
-        'translation.loader' => Illuminate\Translation\FileLoader::class,
+        'translation.loader' => Overtrue\LaravelLang\FileLoader::class,
         'translator' => Illuminate\Translation\Translator::class,
         'command.ide-helper.generate' => Barryvdh\LaravelIdeHelper\Console\GeneratorCommand::class,
         'command.ide-helper.models' => Barryvdh\LaravelIdeHelper\Console\ModelsCommand::class,
@@ -566,7 +566,7 @@ namespace PHPSTORM_META {
         'IlluminateQueueClosure' => IlluminateQueueClosure::class,
         'auth.password' => Illuminate\Auth\Passwords\PasswordBroker::class,
         'auth.password.tokens' => Illuminate\Auth\Passwords\DatabaseTokenRepository::class,
-        'translation.loader' => Illuminate\Translation\FileLoader::class,
+        'translation.loader' => Overtrue\LaravelLang\FileLoader::class,
         'translator' => Illuminate\Translation\Translator::class,
         'command.ide-helper.generate' => Barryvdh\LaravelIdeHelper\Console\GeneratorCommand::class,
         'command.ide-helper.models' => Barryvdh\LaravelIdeHelper\Console\ModelsCommand::class,
@@ -679,7 +679,7 @@ namespace PHPSTORM_META {
         'IlluminateQueueClosure' => IlluminateQueueClosure::class,
         'auth.password' => Illuminate\Auth\Passwords\PasswordBroker::class,
         'auth.password.tokens' => Illuminate\Auth\Passwords\DatabaseTokenRepository::class,
-        'translation.loader' => Illuminate\Translation\FileLoader::class,
+        'translation.loader' => Overtrue\LaravelLang\FileLoader::class,
         'translator' => Illuminate\Translation\Translator::class,
         'command.ide-helper.generate' => Barryvdh\LaravelIdeHelper\Console\GeneratorCommand::class,
         'command.ide-helper.models' => Barryvdh\LaravelIdeHelper\Console\ModelsCommand::class,
@@ -792,7 +792,7 @@ namespace PHPSTORM_META {
         'IlluminateQueueClosure' => IlluminateQueueClosure::class,
         'auth.password' => Illuminate\Auth\Passwords\PasswordBroker::class,
         'auth.password.tokens' => Illuminate\Auth\Passwords\DatabaseTokenRepository::class,
-        'translation.loader' => Illuminate\Translation\FileLoader::class,
+        'translation.loader' => Overtrue\LaravelLang\FileLoader::class,
         'translator' => Illuminate\Translation\Translator::class,
         'command.ide-helper.generate' => Barryvdh\LaravelIdeHelper\Console\GeneratorCommand::class,
         'command.ide-helper.models' => Barryvdh\LaravelIdeHelper\Console\ModelsCommand::class,
